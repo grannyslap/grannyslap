@@ -1,0 +1,17 @@
+{
+  "name": "GrannySlap",
+  "symbol": "GSLP",
+  "description": "GrannySlap - Slapping corruption one token at a time. A satirical Solana meme token designed to counter corruption with humor.",
+  "image": "https://grannyslap.github.io/grannyslap/logo.png",
+  "external_url": "https://grannyslap.github.io/grannyslap/",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://grannyslap.github.io/grannyslap/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
